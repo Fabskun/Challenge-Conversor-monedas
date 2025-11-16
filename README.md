@@ -31,9 +31,9 @@ El programa ofrece el siguiente menú interactivo:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-monedas.git
+   [git clone https://github.com/tu-usuario/conversor-monedas.git](https://github.com/Fabskun/Challenge-Conversor-monedas]
 
-   javac Main.java
+
      
 Sea Bienvenido al Conversor de Monedas
 1) Dólar --> Peso Argentino
